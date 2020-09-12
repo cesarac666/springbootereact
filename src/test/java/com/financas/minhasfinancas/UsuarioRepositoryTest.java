@@ -13,7 +13,7 @@ import com.financas.minhasfinancas.model.repository.UsuarioRepository;
 
 @SpringBootTest
 @RunWith(SpringRunner.class)
-@ActiveProfiles("test") // aapplication-test.properties 
+@ActiveProfiles("test") // aapplication-test.properties  
 public class UsuarioRepositoryTest {
 	
 	@Autowired
